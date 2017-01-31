@@ -92,3 +92,6 @@ export GOPATH=$PATH:/usr/local/go/bin
 export GOBIN=$HOME/go/bin
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+alias home='cd ~/'
+alias code='cd ~/Code'
